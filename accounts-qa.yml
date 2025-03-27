@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA 9999 APIs "
+  message: "Welcome to EazyBank accounts related QA 888888 APIs "
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "{cipher}3ba63e2b9dddd394713c1edb5c109dccee3b87c8a25ab01739823bc476593fb7516dd34f321c16749f24770b6731cb90"
